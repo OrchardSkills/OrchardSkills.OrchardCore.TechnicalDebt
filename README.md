@@ -240,5 +240,5 @@ Technical Debt can be seen as a shortcut, which saves teams’ time, effort and/
 
 # GitHub
 
-The complete source code is located [here](hhttps://github.com/OrchardSkills/OrchardSkills.OrchardCore.VisualStudioOnline).
+The complete source code is located [here](https://github.com/OrchardSkills/OrchardSkills.OrchardCore.VisualStudioOnline).
 
